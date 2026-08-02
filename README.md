@@ -23,8 +23,6 @@ Our Bookkeeping & Accounting Document Generation API turns your product into a d
 
 Upgrade to the Pro version for **$99.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://devforgetools.gumroad.com/l/eascac)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/aFa6oHcLlf6Qf440VecZc01)** — Secure checkout
 
 ## Installation
@@ -36,7 +34,6 @@ Upgrade to the Pro version for **$99.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://devforgetools.gumroad.com/l/eascac)
 
 ## License
 
